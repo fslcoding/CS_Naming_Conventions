@@ -81,3 +81,5 @@ class Car { }
 for(int i = 0; i < Something; i++) { }
 ```
 
+For more in depth detail: loop at [this](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md) repo by user [ktaranov](https://github.com/ktaranov)
+
